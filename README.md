@@ -15,8 +15,7 @@
 
 1.  First head over to our landing page (localhost:3000/landing) where you see information of all the solutions we offer. In order to use them, click "Join Us"
 
-2.  Signup to our website, it requires OTP verification. Passwords must be atleast 7 letters with capital, lowercase, number and a special character included. Example:
-> "vaibhav.thalanki@gmail.com" ---  "HIRINGlab123@"      (Make sure to give your email to recieve OTP)
+2.  Signup to our website, it requires OTP verification. Passwords must be atleast 7 letters with capital, lowercase, number and a special character included. 
 
 3. Login to find yourself at PROFILE page.
 
